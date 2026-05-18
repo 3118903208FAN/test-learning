@@ -2,7 +2,6 @@
 # ---------------------------------------------------------------------------
 # ProjectName:   demo
 # FileName:      logic_model.py
-# Author:       FanCuiChuan
 # Datetime:     2026/5/18 18:32
 # Description:
 # 命名规范：文件名全小写+下划线，类名大驼峰，方法和变量小写+下划线连接，
